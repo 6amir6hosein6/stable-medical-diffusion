@@ -25,11 +25,11 @@ cd ./dataset
 wget https://openi.nlm.nih.gov/imgs/collections/NLMCXR_png.tgz
 
 # Download DICOM images
-wget https://openi.nlm.nih.gov/imgs/collections/NLM-MEDLINE/NLM-MEDLINE-DICOM.zip
+wget https://openi.nlm.nih.gov/imgs/collections/NLMCXR_dcm.tgz
 
-# Download XML reports
-wget https://openi.nlm.nih.gov/xml
+# Download Reports
+wget https://openi.nlm.nih.gov/imgs/collections/NLMCXR_reports.tgz
 
-# (Optional) Download vocabulary mapping
-wget https://openi.nlm.nih.gov/radiology_vocabulary_final.xlsx
+# Download vocabulary mapping
+wget https://openi.nlm.nih.gov/imgs/collections/radiology_vocabulary_final.xlsx
 ```
